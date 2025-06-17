@@ -6,5 +6,8 @@
   { "name": "Beethoven - Für Elise", "file": "FurElise.mid" },
   { "name": "Mozart - Eine kleine Nachtmusik (Allegro)", "file": "Mozart.mid" },
   { "name": "Super Mario Bros. Theme", "file": "Mario.mid" },
-  { "name": "Star Wars - Main Theme", "file": "StarWarsTheme.mid" }
+  { "name": "Star Wars - Main Theme", "file": "StarWarsTheme.mid" },
+  { "name": "Doom OST - At Dooms gate E1M1", "file": "DoomE1M1.mid" },
+  { "name": "Toby Fox - Megalovania", "file": "UT-Megalovania.mid" },
+  { "name": "Toby Fox - DELTARUNE ch2: A Cyber's World", "file": "DELTARUNE_A_Cybers_World.mid" }
 ]
